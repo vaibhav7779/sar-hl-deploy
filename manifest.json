@@ -1,6 +1,6 @@
 {
-    "name": "hl_demo",
-    "short_name": "hl_demo",
+    "name": "flutter_empty",
+    "short_name": "flutter_empty",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
